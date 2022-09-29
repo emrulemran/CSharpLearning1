@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\bin\Debug\ExecptionsDemo.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\bin\Debug\ExecptionsDemo.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\bin\Debug\ExecptionsDemo.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\obj\Debug\ExecptionsDemo.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\obj\Debug\ExecptionsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\obj\Debug\ExecptionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\obj\Debug\ExecptionsDemo.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\ExecptionsPractice\ExecptionsDemo\obj\Debug\ExecptionsDemo.pdb

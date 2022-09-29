@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\bin\Debug\VariablesDemo.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\bin\Debug\VariablesDemo.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\bin\Debug\VariablesDemo.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\obj\Debug\VariablesDemo.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\obj\Debug\VariablesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\obj\Debug\VariablesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\obj\Debug\VariablesDemo.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\VariablesDemo\VariablesDemo\obj\Debug\VariablesDemo.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\bin\Debug\Collections1.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\bin\Debug\Collections1.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\bin\Debug\Collections1.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\obj\Debug\Collections1.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\obj\Debug\Collections1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\obj\Debug\Collections1.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\obj\Debug\Collections1.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\Collections1\Collections1\obj\Debug\Collections1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\bin\Debug\CollectionsRevise.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\bin\Debug\CollectionsRevise.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\bin\Debug\CollectionsRevise.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\obj\Debug\CollectionsRevise.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\obj\Debug\CollectionsRevise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\obj\Debug\CollectionsRevise.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\obj\Debug\CollectionsRevise.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\CollectionsRevise\CollectionsRevise\obj\Debug\CollectionsRevise.pdb

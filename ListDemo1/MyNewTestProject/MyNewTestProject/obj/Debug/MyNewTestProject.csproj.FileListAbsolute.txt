@@ -1,0 +1,8 @@
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\obj\Debug\MyNewTestProject.csproj.AssemblyReference.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\obj\Debug\MyNewTestProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\obj\Debug\MyNewTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\bin\Debug\MyNewTestProject.exe.config
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\bin\Debug\MyNewTestProject.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\bin\Debug\MyNewTestProject.pdb
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\obj\Debug\MyNewTestProject.exe
+C:\Users\Emran\source\repos\CSharpLearning\ListDemo1\MyNewTestProject\MyNewTestProject\obj\Debug\MyNewTestProject.pdb
